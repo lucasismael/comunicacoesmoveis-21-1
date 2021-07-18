@@ -24,4 +24,4 @@
 
 * Entregas - [Link via Github](https://github.com/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_02/Entregas_HD_02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_02/Entregas_HD_02.ipynb)
     * As entregas estão autocontidas em um único *Jupyter Notebook*, para executar o código é necessário abrir o arquivo via a plataforma do *Jupyter*!
-* Vídeo da Entrega - [Link via Youtube](https://youtu.be/J1EoyyDhld0)
+* Vídeo da Entrega - [Link via Youtube](https://www.youtube.com/watch?v=J1EoyyDhId0)
