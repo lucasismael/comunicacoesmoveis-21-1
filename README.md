@@ -16,4 +16,12 @@
 
 * Entregas Parte 02 - [Link via Github](https://github.com/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_01/Entregas_HD_01_P2.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_01/Entregas_HD_01_P2.ipynb)
     * As entregas estão autocontidas em um único *Jupyter Notebook*, para executar o código é necessário abrir o arquivo via a plataforma do *Jupyter*!
-* Vídeo Parte 02 - [Link via Youtube](https://youtu.be/6wwG_dhZt-Q) 
+* Vídeo Parte 02 - [Link via Youtube](https://youtu.be/6wwG_dhZt-Q)
+
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h01_parte_03.ipynb)
+
+* Todos os códigos relevantes ao **Hands-on 02** estão contidos no seguinte diretório: **~/Unidade_1/HD_02**
+
+* Entregas - [Link via Github](https://github.com/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_02/Entregas_HD_02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/lucasismael/comunicacoesmoveis-21-1/blob/main/unidade_1/HD_02/Entregas_HD_02.ipynb)
+    * As entregas estão autocontidas em um único *Jupyter Notebook*, para executar o código é necessário abrir o arquivo via a plataforma do *Jupyter*!
+* Vídeo da Entrega - [Link via Youtube](https://youtu.be/J1EoyyDhld0)
