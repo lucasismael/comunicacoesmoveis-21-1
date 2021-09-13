@@ -36,3 +36,13 @@
     * As entregas estão autocontidas em um único *Jupyter Notebook*, para executar o código é necessário abrir o arquivo via a plataforma do *Jupyter*!
 * Vídeo da Entrega - [Link via Youtube](https://youtu.be/INnbkX3NIjQ)
 
+## UNIDADE III
+
+### Hands-on 1: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h03.ipynb)
+
+* Todos os códigos relevantes ao **Hands-on 01** estão contidos no seguinte diretório: **~/Unidade_3/calculadora_LTE_NR_FINAL**
+
+* Entregas - A entrega é composta por um único script em python que implementa a calculadora de taxa de transmissão.
+   * Para executar a calculadora é necessário entrar no diretório em que o arquivo está salvo (via terminal) e digitar: **python3 calculadora_LTE_NR.py** 
+* Vídeo da Entrega - [Link via Youtube](https://youtu.be/V0NiXdZ5uSo)
+
